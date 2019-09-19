@@ -9,6 +9,18 @@
 
 ***
 
+`小區塊`
+`小區塊`
+`小區塊`
+
+```
+大區塊
+大區塊
+大區塊
+```
+
+***
+
 * Hello Github!
 * Hello Github!
 * Hello Github!
@@ -50,6 +62,8 @@ public class HelloWorld
 ```
 
 ***
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 

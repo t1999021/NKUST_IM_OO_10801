@@ -67,6 +67,6 @@ public class HelloWorld
 
 ***
 
-![NKFUST](NKFUST.JPG "高第一")
+![NKFUST](NKFUST.jpg "高第一")
 
 

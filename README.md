@@ -60,8 +60,8 @@
 
 8. 類別圖
 
-![images](Class.png "類別圖")
+![images](Class.PNG "類別圖")
 
 8. 循環圖
 
-![images](Cycle.png "循環圖")
+![images](Cycle.PNG "循環圖")
